@@ -26,6 +26,9 @@
 
 # Visual Studio cache directory
 .vs/
+.venvProject3/
+
+/Packages
 
 # Gradle cache directory
 .gradle/

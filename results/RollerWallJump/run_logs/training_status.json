@@ -1,0 +1,65 @@
+{
+    "RollerWallJump": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-499999.onnx",
+                "reward": -0.69219501770061,
+                "creation_time": 1744174285.2761626,
+                "auxillary_file_paths": [
+                    "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-499999.pt"
+                ]
+            },
+            {
+                "steps": 999977,
+                "file_path": "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-999977.onnx",
+                "reward": -0.3353742309155003,
+                "creation_time": 1744174493.336308,
+                "auxillary_file_paths": [
+                    "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-999977.pt"
+                ]
+            },
+            {
+                "steps": 1499992,
+                "file_path": "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-1499992.onnx",
+                "reward": 0.3470900464165318,
+                "creation_time": 1744174693.4991724,
+                "auxillary_file_paths": [
+                    "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-1499992.pt"
+                ]
+            },
+            {
+                "steps": 1999978,
+                "file_path": "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-1999978.onnx",
+                "reward": 1.0812624769285322,
+                "creation_time": 1744174894.1854854,
+                "auxillary_file_paths": [
+                    "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-1999978.pt"
+                ]
+            },
+            {
+                "steps": 2451498,
+                "file_path": "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-2451498.onnx",
+                "reward": 1.1860380396442463,
+                "creation_time": 1744175083.1577415,
+                "auxillary_file_paths": [
+                    "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-2451498.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2451498,
+            "file_path": "results\\RollerWallJump\\RollerWallJump.onnx",
+            "reward": 1.1860380396442463,
+            "creation_time": 1744175083.1577415,
+            "auxillary_file_paths": [
+                "results\\RollerWallJump\\RollerWallJump\\RollerWallJump-2451498.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cpu"
+    }
+}
